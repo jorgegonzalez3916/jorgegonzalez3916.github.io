@@ -1,0 +1,11 @@
+#w1{
+  background: #FFFFFF;
+   border:none;
+   border-radius:0;
+}
+#w2 {
+  background-image:url(https://media.adeo.com/marketplace/LMES/81881654/2129954.png?width=650&height=650&format=jpg&quality=80&fit=bounds);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:100% 100%;
+  {
